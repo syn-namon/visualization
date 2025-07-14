@@ -1,0 +1,394 @@
+_id,SiteAddress,District,Ward,Status
+1,10 MAYNARD AVE   ,Toronto and East York,04,In Progress
+2,10 SORAUREN AVE   ,Toronto and East York,04,Inactive
+3,100 LIPPINCOTT ST   ,Toronto and East York,11,Inactive
+4,101 BRUNSWICK AVE   ,Toronto and East York,11,Active
+5,101 ENDERBY RD   ,Toronto and East York,19,In Progress
+6,101 GLOUCESTER ST   ,Toronto and East York,13,Inactive
+7,101 SPADINA RD   ,Toronto and East York,11,Active
+8,102 SPENCER AVE   ,Toronto and East York,04,In Progress
+9,103 SPADINA RD   ,Toronto and East York,11,Active
+10,103 TYNDALL AVE   ,Toronto and East York,04,
+11,104 BEDFORD RD   ,Toronto and East York,11,In Progress
+12,1041 DUFFERIN ST   ,Toronto and East York,09,Active
+13,105 OAKWOOD AVE   ,Toronto and East York,09,Active
+14,105 WESTMOUNT AVE   ,Toronto and East York,09,Inactive
+15,106 BEVERLEY ST   ,Toronto and East York,10,In Progress
+16,106 SPADINA RD   ,Toronto and East York,11,Inactive
+17,109 DELROY DR   ,Etobicoke York,03,Active
+18,1097 DUFFERIN ST   ,Toronto and East York,09,Active
+19,11 A ELM GROVE AVE   ,Toronto and East York,04,Active
+20,11 ELM GROVE AVE   ,Toronto and East York,04,Active
+21,11 FAIRVIEW BLVD   ,Toronto and East York,14,In Progress
+22,11 HOMEWOOD AVE   ,Toronto and East York,13,In Progress
+23,11 LAXTON AVE   ,Toronto and East York,04,In Progress
+24,11 SPADINA RD   ,Toronto and East York,11,In Progress
+25,112 SPENCER AVE   ,Toronto and East York,04,In Progress
+26,1134 DUFFERIN ST   ,Toronto and East York,09,In Progress
+27,1159 ST CLAIR AVE W  ,Toronto and East York,09,Active
+28,116 SPENCER AVE   ,Toronto and East York,04,Inactive
+29,116-118 SPENCER AVE   ,Toronto and East York,04,Active
+30,117 DOWLING AVE   ,Toronto and East York,04,Active
+31,117 PEMBROKE ST   ,Toronto and East York,13,In Progress
+32,118 DOWLING AVE   ,Toronto and East York,04,Inactive
+33,118 LAUDER AVE   ,Toronto and East York,09,In Progress
+34,118 SPADINA RD   ,Toronto and East York,11,Inactive
+35,1186 GERRARD ST E  ,Toronto and East York,14,Inactive
+36,119 DOWLING AVE   ,Toronto and East York,04,In Progress
+37,12 NETHERLY DR   ,Etobicoke York,01,In Progress
+38,120 SPENCER AVE   ,Toronto and East York,04,
+39,122 SPENCER AVE   ,Toronto and East York,04,
+40,123 MADISON AVE   ,Toronto and East York,11,In Progress
+41,124 SPADINA RD   ,Toronto and East York,11,Active
+42,124 SPENCER AVE   ,Toronto and East York,04,Inactive
+43,127 DUNN AVE   ,Toronto and East York,04,Active
+44,127 ISABELLA ST   ,Toronto and East York,13,In Progress
+45,1298 DANFORTH AVE   ,Toronto and East York,14,Inactive
+46,13 HOMEWOOD AVE   ,Toronto and East York,13,Active
+47,13 HOMEWOOD AVE   ,Toronto and East York,13,In Progress
+48,1302 KING ST W  ,Toronto and East York,04,In Progress
+49,1326 KING ST W  ,Toronto and East York,04,In Progress
+50,1330 KING ST W  ,Toronto and East York,04,Inactive
+51,1335 KING ST W  ,Toronto and East York,04,Inactive
+52,134 CRESCENT RD   ,Toronto and East York,11,Active
+53,136 BEDFORD RD   ,Toronto and East York,11,In Progress
+54,136 CLOSE AVE   ,Toronto and East York,04,In Progress
+55,1363 KING ST W  ,Toronto and East York,04,Inactive
+56,1365 BATHURST ST   ,Toronto and East York,12,Active
+57,137 BATHURST ST   ,Toronto and East York,10,In Progress
+58,137 HAVELOCK ST   ,Toronto and East York,09,Inactive
+59,137 JARVIS ST   ,Toronto and East York,13,Inactive
+60,1371 KING ST W  ,Toronto and East York,04,In Progress
+61,138 CLOSE AVE   ,Toronto and East York,04,In Progress
+62,138 JONES AVE   ,Toronto and East York,14,Active
+63,140 SPADINA RD   ,Toronto and East York,11,In Progress
+64,1417 DUNDAS ST W  ,Toronto and East York,09,Active
+65,143 DOWLING AVE   ,Toronto and East York,04,Active
+66,144-148 AUGUSTA AVE   ,Toronto and East York,11,Inactive
+67,145 GERRARD ST E  ,Toronto and East York,13,In Progress
+68,147 GERRARD ST E  ,Toronto and East York,13,In Progress
+69,149 COWAN AVE   ,Toronto and East York,04,Active
+70,149 DUNDAS ST E  ,Toronto and East York,13,In Progress
+71,149 TYNDALL AVE   ,Toronto and East York,04,In Progress
+72,15 HOMEWOOD AVE   ,Toronto and East York,13,
+73,15 HOMEWOOD AVE   ,Toronto and East York,13,Active
+74,15 TEMPLE AVE   ,Toronto and East York,04,In Progress
+75,15 THORBURN AVE   ,Toronto and East York,04,
+76,15 WILSON PARK RD   ,Toronto and East York,04,Active
+77,150 COWAN AVE   ,Toronto and East York,04,Active
+78,150 SPRINGHURST AVE   ,Toronto and East York,04,Active
+79,1501 KING ST W  ,Toronto and East York,04,In Progress
+80,1506 KING ST W  ,Toronto and East York,04,In Progress
+81,151 DUNN AVE   ,Toronto and East York,04,In Progress
+82,151 TYNDALL AVE   ,Toronto and East York,04,In Progress
+83,1510 KING ST W  ,Toronto and East York,04,Active
+84,1512 KING ST W  ,Toronto and East York,04,In Progress
+85,1516 KING ST W  ,Toronto and East York,04,In Progress
+86,1518 KING ST W  ,Toronto and East York,04,
+87,1518 KING ST W  ,Toronto and East York,04,In Progress
+88,1524 KING ST W  ,Toronto and East York,04,Inactive
+89,1549 QUEEN ST W  ,Toronto and East York,04,Active
+90,155 DUNN AVE   ,Toronto and East York,04,Inactive
+91,155 SPRINGHURST AVE   ,Toronto and East York,04,Inactive
+92,1554 KING ST W  ,Toronto and East York,04,Active
+93,1558 B DAVENPORT RD   ,Toronto and East York,09,Inactive
+94,1558 DAVENPORT RD   ,Toronto and East York,09,Active
+95,156 COWAN AVE   ,Toronto and East York,04,Active
+96,156 SPADINA RD   ,Toronto and East York,11,Inactive
+97,157 DUNN AVE   ,Toronto and East York,04,Active
+98,158 DOWLING AVE   ,Toronto and East York,04,In Progress
+99,16 LANSDOWNE AVE   ,Toronto and East York,04,In Progress
+100,16 SPENCER AVE   ,Toronto and East York,04,Active
+101,160 DOWLING AVE   ,Toronto and East York,04,Inactive
+102,160 OAKWOOD AVE   ,Toronto and East York,09,Active
+103,160 SPADINA RD   ,Toronto and East York,11,Active
+104,161 DUNN AVE   ,Toronto and East York,04,Active
+105,162 MADISON AVE   ,Toronto and East York,11,In Progress
+106,162 SPADINA RD   ,Toronto and East York,11,Active
+107,163 SPADINA RD   ,Toronto and East York,11,Active
+108,164 CLOSE AVE   ,Toronto and East York,04,Active
+109,164 SPADINA RD   ,Toronto and East York,11,In Progress
+110,166 DOWLING AVE   ,Toronto and East York,04,Active
+111,168 ISABELLA ST   ,Toronto and East York,13,Active
+112,169 DOWLING AVE   ,Toronto and East York,04,In Progress
+113,169 SHAW ST   ,Toronto and East York,10,In Progress
+114,17 EDGEWOOD AVE   ,Toronto and East York,19,In Progress
+115,17 HOMEWOOD AVE   ,Toronto and East York,13,Active
+116,17 SPRINGHURST AVE   ,Toronto and East York,04,
+117,171 LESLIE ST   ,Toronto and East York,14,In Progress
+118,1723 DUFFERIN ST   ,Toronto and East York,09,In Progress
+119,1725 DUFFERIN ST   ,Toronto and East York,09,Active
+120,174 HIGH PARK AVE   ,Toronto and East York,04,Inactive
+121,175 KEELE ST   ,Toronto and East York,04,Inactive
+122,178 DOWLING AVE   ,Toronto and East York,04,Active
+123,179 DOWLING AVE   ,Toronto and East York,04,Active
+124,18 MAYNARD AVE   ,Toronto and East York,04,Active
+125,18 ULSTER ST   ,Toronto and East York,11,Active
+126,180 DOWLING AVE   ,Toronto and East York,04,Active
+127,180 PERTH AVE   ,Toronto and East York,09,In Progress
+128,180 SHERBOURNE ST   ,Toronto and East York,13,Inactive
+129,181 DOWLING AVE   ,Toronto and East York,04,Active
+130,182 DOWLING AVE   ,Toronto and East York,04,Active
+131,184 SHERBOURNE ST   ,Toronto and East York,13,In Progress
+132,185 DOWLING AVE   ,Toronto and East York,04,Active
+133,1868 BLOOR ST W  ,Toronto and East York,04,Active
+134,187 DUNN AVE   ,Toronto and East York,04,Active
+135,189 DUNN AVE   ,Toronto and East York,04,In Progress
+136,19 HOMEWOOD AVE   ,Toronto and East York,13,In Progress
+137,190 DUNN AVE   ,Toronto and East York,04,Active
+138,191 DUNN AVE   ,Toronto and East York,04,In Progress
+139,192 DUNN AVE   ,Toronto and East York,04,Active
+140,1926 BLOOR ST W  ,Toronto and East York,04,In Progress
+141,193 DUNN AVE   ,Toronto and East York,04,In Progress
+142,194 DUNN AVE   ,Toronto and East York,04,Active
+143,196 BEVERLEY ST   ,Toronto and East York,11,In Progress
+144,197 CARLTON ST   ,Toronto and East York,13,Active
+145,198 DUNN AVE   ,Toronto and East York,04,Active
+146,199 BERKELEY ST   ,Toronto and East York,13,Active
+147,199 CARLTON ST   ,Toronto and East York,13,Active
+148,2 ELM GROVE AVE   ,Toronto and East York,04,In Progress
+149,2 LAXTON AVE   ,Toronto and East York,04,Active
+150,20 MAYNARD AVE   ,Toronto and East York,04,In Progress
+151,201 CARLTON ST   ,Toronto and East York,13,Active
+152,203 DUNN AVE   ,Toronto and East York,04,Inactive
+153,203 SPADINA RD   ,Toronto and East York,11,Inactive
+154,205 BERKELEY ST   ,Toronto and East York,13,In Progress
+155,205 CARLTON ST   ,Toronto and East York,13,Active
+156,206 CARLTON ST   ,Toronto and East York,13,Inactive
+157,207 BERKELEY ST   ,Toronto and East York,13,Inactive
+158,209 CARLTON ST   ,Toronto and East York,13,Inactive
+159,21 HIGH PARK BLVD   ,Toronto and East York,04,Active
+160,21 HOMEWOOD AVE   ,Toronto and East York,13,Active
+161,21 OXFORD ST   ,Toronto and East York,11,Active
+162,210 BEVERLEY ST   ,Toronto and East York,11,Active
+163,213 CARLTON ST   ,Toronto and East York,13,In Progress
+164,2140 BLOOR ST W  ,Toronto and East York,04,Active
+165,216 DUNN AVE   ,Toronto and East York,04,Active
+166,2178 GERRARD ST E  ,Toronto and East York,19,Active
+167,219 SPADINA RD   ,Toronto and East York,11,Inactive
+168,2190 GERRARD ST E  ,Toronto and East York,19,Active
+169,22 CLOVERDALE RD   ,Toronto and East York,09,Active
+170,22 SPRINGHURST AVE   ,Toronto and East York,04,Active
+171,220 CARLTON ST   ,Toronto and East York,13,Inactive
+172,221 WRIGHT AVE   ,Toronto and East York,04,Inactive
+173,222 CARLTON ST   ,Toronto and East York,13,Active
+174,223 CARLTON ST   ,Toronto and East York,13,In Progress
+175,223 SPADINA RD   ,Toronto and East York,11,Inactive
+176,224 PARLIAMENT ST   ,Toronto and East York,13,Active
+177,224 PARLIAMENT ST   ,Toronto and East York,13,In Progress
+178,226 NAIRN AVE   ,Toronto and East York,09,Inactive
+179,228 BEVERLEY ST   ,Toronto and East York,11,Active
+180,229 CRAWFORD ST   ,Toronto and East York,10,In Progress
+181,229 MANNING AVE   ,Toronto and East York,11,In Progress
+182,23 MADISON AVE   ,Toronto and East York,11,Active
+183,230 CARLTON ST   ,Toronto and East York,13,Inactive
+184,232 CARLTON ST   ,Toronto and East York,13,Inactive
+185,234 CARLTON ST   ,Toronto and East York,13,In Progress
+186,236 CARLTON ST   ,Toronto and East York,13,In Progress
+187,241 SHERBOURNE ST   ,Toronto and East York,13,Inactive
+188,242 CHURCH ST   ,Toronto and East York,13,Active
+189,245 WELLESLEY ST E  ,Toronto and East York,13,Inactive
+190,25 AUGUSTA AVE   ,Toronto and East York,10,Active
+191,25 MCGILL ST   ,Toronto and East York,13,Active
+192,25 NORWOOD RD   ,Toronto and East York,19,Active
+193,250 QUEEN ST E  ,Toronto and East York,13,Inactive
+194,251 ST GEORGE ST   ,Toronto and East York,11,In Progress
+195,255 WELLESLEY ST E  ,Toronto and East York,13,Inactive
+196,257 WELLESLEY ST E  ,Toronto and East York,13,Inactive
+197,26 BIGGAR AVE   ,Toronto and East York,09,Active
+198,26 LANSDOWNE AVE   ,Toronto and East York,04,Active
+199,26 MAYNARD AVE   ,Toronto and East York,04,Active
+200,260 LOGAN AVE   ,Toronto and East York,14,Active
+201,262 GERRARD ST E  ,Toronto and East York,13,Active
+202,264 ST GEORGE ST   ,Toronto and East York,11,Active
+203,265 WELLESLEY ST E  ,Toronto and East York,13,Inactive
+204,266 ST GEORGE ST   ,Toronto and East York,11,In Progress
+205,267 WELLESLEY ST E  ,Toronto and East York,13,Inactive
+206,269 WELLESLEY ST E  ,Toronto and East York,13,Inactive
+207,27 NORWOOD RD   ,Toronto and East York,19,Active
+208,2700 DUNDAS ST W  ,Toronto and East York,04,Active
+209,271 WELLESLEY ST E  ,Toronto and East York,13,Inactive
+210,273 ST GEORGE ST   ,Toronto and East York,11,Active
+211,273 WELLESLEY ST E  ,Toronto and East York,13,Inactive
+212,275 ST GEORGE ST   ,Toronto and East York,11,Active
+213,275 WELLESLEY ST E  ,Toronto and East York,13,Inactive
+214,277 WELLESLEY ST E  ,Toronto and East York,13,Inactive
+215,28 BEATY AVE   ,Toronto and East York,04,In Progress
+216,28 DELAWARE AVE   ,Toronto and East York,09,Active
+217,28 HARVARD AVE   ,Toronto and East York,04,Inactive
+218,28 OAK PARK AVE   ,Toronto and East York,19,In Progress
+219,28-30 LANGLEY AVE   ,Toronto and East York,14,Active
+220,280 AUGUSTA AVE   ,Toronto and East York,11,In Progress
+221,281 DUNDAS ST E  ,Toronto and East York,13,Inactive
+222,2815 DANFORTH AVE   ,Toronto and East York,19,In Progress
+223,283 1/2 GEORGE ST   ,Toronto and East York,13,Active
+224,283 CHRISTIE ST   ,Toronto and East York,11,Active
+225,283 GEORGE ST   ,Toronto and East York,13,Active
+226,286 GERRARD ST E  ,Toronto and East York,13,Inactive
+227,2868 LAKE SHORE BLVD W  ,Etobicoke York,03,Active
+228,2869 LAKE SHORE BLVD W  ,Etobicoke York,03,Inactive
+229,287 JARVIS ST   ,Toronto and East York,13,Active
+230,29 HOMEWOOD AVE   ,Toronto and East York,13,In Progress
+231,29 WADE AVE   ,Toronto and East York,09,Active
+232,290 BARTON AVE   ,Toronto and East York,11,Active
+233,295 JARVIS ST   ,Toronto and East York,13,In Progress
+234,30 BEATY AVE   ,Toronto and East York,04,In Progress
+235,30 LANSDOWNE AVE   ,Toronto and East York,04,In Progress
+236,30 MAPLE GROVE AVE   ,Toronto and East York,04,Inactive
+237,30 MAYNARD AVE   ,Toronto and East York,04,Active
+238,30 MAYNARD AVE   ,Toronto and East York,04,In Progress
+239,300 SHERBOURNE ST   ,Toronto and East York,13,Active
+240,31 HOMEWOOD AVE   ,Toronto and East York,13,Inactive
+241,316 ST GEORGE ST   ,Toronto and East York,11,Active
+242,32 ADMIRAL RD   ,Toronto and East York,11,Active
+243,32 SPENCER AVE   ,Toronto and East York,04,Active
+244,3220 DUNDAS ST W  ,Toronto and East York,04,Active
+245,326 MAIN ST   ,Toronto and East York,19,Inactive
+246,33 BEATY AVE   ,Toronto and East York,04,In Progress
+247,335 LESLIE ST   ,Toronto and East York,14,Inactive
+248,344 JARVIS ST   ,Toronto and East York,13,In Progress
+249,346 PALMERSTON BLVD   ,Toronto and East York,11,Active
+250,35 HURON ST   ,Toronto and East York,10,Active
+251,36 DALTON RD   ,Toronto and East York,11,Active
+252,363 PALMERSTON BLVD   ,Toronto and East York,11,In Progress
+253,366 MARKHAM ST   ,Toronto and East York,11,In Progress
+254,37 HURON ST   ,Toronto and East York,10,Inactive
+255,370 DUNDAS ST W  ,Toronto and East York,11,Inactive
+256,372 GEORGE ST   ,Toronto and East York,13,Active
+257,38 HARCOURT AVE   ,Toronto and East York,14,Active
+258,38 PROSPECT ST   ,Toronto and East York,13,Active
+259,382 DUNDAS ST E  ,Toronto and East York,13,Active
+260,384 BATHURST ST   ,Toronto and East York,11,Inactive
+261,386 DUNDAS ST E  ,Toronto and East York,13,Active
+262,388 DUNDAS ST E  ,Toronto and East York,13,Active
+263,39 CHRISTIE ST   ,Toronto and East York,11,Active
+264,39 PEMBROKE ST   ,Toronto and East York,13,Active
+265,390 BATHURST ST   ,Toronto and East York,11,Active
+266,4 SPENCER AVE   ,Toronto and East York,04,In Progress
+267,40 BEATY AVE   ,Toronto and East York,04,Active
+268,408 DOVERCOURT RD   ,Toronto and East York,09,In Progress
+269,41 D'ARCY ST   ,Toronto and East York,11,Inactive
+270,41 PEMBROKE ST   ,Toronto and East York,13,Active
+271,42 BEATY AVE   ,Toronto and East York,04,Active
+272,422 SHERBOURNE ST   ,Toronto and East York,13,Active
+273,43 HAVELOCK ST   ,Toronto and East York,09,Active
+274,43 PEMBROKE ST   ,Toronto and East York,13,Active
+275,430 GLADSTONE AVE   ,Toronto and East York,09,Active
+276,432 SHERBOURNE ST   ,Toronto and East York,13,Active
+277,435 BROADVIEW AVE   ,Toronto and East York,14,In Progress
+278,436 SHERBOURNE ST   ,Toronto and East York,13,In Progress
+279,437 SHERBOURNE ST   ,Toronto and East York,13,Active
+280,438 SHERBOURNE ST   ,Toronto and East York,13,Active
+281,44 TYRREL AVE   ,Toronto and East York,12,Active
+282,450 PAPE AVE   ,Toronto and East York,14,In Progress
+283,453-455 PARKSIDE DR   ,Toronto and East York,04,Active
+284,457-459 PARKSIDE DR   ,Toronto and East York,04,In Progress
+285,46 THE QUEENSWAY    ,Toronto and East York,04,In Progress
+286,47 CHRISTIE ST   ,Toronto and East York,11,Active
+287,476 DOVERCOURT RD   ,Toronto and East York,09,In Progress
+288,48 WANDA RD   ,Toronto and East York,04,Inactive
+289,490 HURON ST   ,Toronto and East York,11,In Progress
+290,492 PALMERSTON BLVD   ,Toronto and East York,11,In Progress
+291,498 PAPE AVE   ,Toronto and East York,14,Active
+292,5 GLENAVON RD   ,Toronto and East York,04,In Progress
+293,5 SELBY ST   ,Toronto and East York,13,In Progress
+294,5 THORBURN AVE   ,Toronto and East York,04,Active
+295,50-52 METCALFE ST   ,Toronto and East York,13,Active
+296,500 QUEEN ST E  ,Toronto and East York,13,Active
+297,501 LOGAN AVE   ,Toronto and East York,14,In Progress
+298,502 HURON ST   ,Toronto and East York,11,Active
+299,504 PARLIAMENT ST   ,Toronto and East York,13,Inactive
+300,506 PARLIAMENT ST   ,Toronto and East York,13,Inactive
+301,508 PARLIAMENT ST   ,Toronto and East York,13,Inactive
+302,51 HIGH PARK BLVD   ,Toronto and East York,04,Active
+303,51 ORIOLE PKWY   ,Toronto and East York,12,Inactive
+304,51 WINNIFRED AVE   ,Toronto and East York,14,In Progress
+305,52 DUNDONALD ST   ,Toronto and East York,13,In Progress
+306,536 1/2 PARLIAMENT ST   ,Toronto and East York,13,Inactive
+307,536 HURON ST   ,Toronto and East York,11,Active
+308,536 PARLIAMENT ST   ,Toronto and East York,13,Inactive
+309,54 HOWLAND AVE   ,Toronto and East York,11,Active
+310,54 MACDONELL AVE   ,Toronto and East York,04,Active
+311,544 HURON ST   ,Toronto and East York,11,Active
+312,546 PALMERSTON BLVD   ,Toronto and East York,11,Inactive
+313,55 HUNTLEY ST   ,Toronto and East York,13,Active
+314,556 BATHURST ST   ,Toronto and East York,11,Active
+315,558 BATHURST ST   ,Toronto and East York,11,Inactive
+316,56 FERRIER AVE   ,Toronto and East York,14,Active
+317,56 HOWLAND AVE   ,Toronto and East York,11,Active
+318,57 BRANDON AVE   ,Toronto and East York,09,In Progress
+319,570 SHERBOURNE ST   ,Toronto and East York,13,Inactive
+320,574 SHERBOURNE ST   ,Toronto and East York,13,Inactive
+321,577 HURON ST   ,Toronto and East York,11,Active
+322,580 QUEEN ST W  ,Toronto and East York,10,Active
+323,59 GWYNNE AVE   ,Toronto and East York,04,In Progress
+324,59 WILSON PARK RD   ,Toronto and East York,04,In Progress
+325,60 BORDEN ST   ,Toronto and East York,11,Active
+326,60 HARVARD AVE   ,Toronto and East York,04,Inactive
+327,60 TRILLER AVE   ,Toronto and East York,04,Inactive
+328,600 PARLIAMENT ST   ,Toronto and East York,13,Active
+329,61 SPENCER AVE   ,Toronto and East York,04,In Progress
+330,613 PARLIAMENT ST   ,Toronto and East York,13,In Progress
+331,62 BROCK AVE   ,Toronto and East York,04,
+332,62 TRILLER AVE   ,Toronto and East York,04,Inactive
+333,620 SPADINA AVE   ,Toronto and East York,11,In Progress
+334,63 A SPENCER AVE   ,Toronto and East York,04,Inactive
+335,63 OAKWOOD AVE   ,Toronto and East York,09,In Progress
+336,63 SPENCER AVE   ,Toronto and East York,04,Inactive
+337,65 SPENCER AVE   ,Toronto and East York,04,Inactive
+338,652 HURON ST   ,Toronto and East York,11,Inactive
+339,66 A PEMBROKE ST   ,Toronto and East York,13,Active
+340,66 MADISON AVE   ,Toronto and East York,11,In Progress
+341,66 PEMBROKE ST   ,Toronto and East York,13,Active
+342,661 PAPE AVE   ,Toronto and East York,14,Active
+343,67 BEATY AVE   ,Toronto and East York,04,Active
+344,670 BATHURST ST   ,Toronto and East York,11,In Progress
+345,68 COWAN AVE   ,Toronto and East York,04,In Progress
+346,68 GLOUCESTER ST   ,Toronto and East York,13,Active
+347,68 PEMBROKE ST   ,Toronto and East York,13,Active
+348,681 DOVERCOURT RD   ,Toronto and East York,09,Active
+349,69 SPADINA RD   ,Toronto and East York,11,Active
+350,69 WILSON PARK RD   ,Toronto and East York,04,Inactive
+351,697 SPADINA AVE   ,Toronto and East York,11,Inactive
+352,7 ADMIRAL RD   ,Toronto and East York,11,In Progress
+353,7 HOMEWOOD AVE   ,Toronto and East York,13,Active
+354,7 THORBURN AVE   ,Toronto and East York,04,Active
+355,70 MELBOURNE AVE   ,Toronto and East York,04,Inactive
+356,70 WILSON PARK RD   ,Toronto and East York,04,In Progress
+357,71 BEATY AVE   ,Toronto and East York,04,Active
+358,710 DANFORTH AVE   ,Toronto and East York,14,Inactive
+359,72 A SPENCER AVE   ,Toronto and East York,04,Active
+360,72 MELBOURNE AVE   ,Toronto and East York,04,Active
+361,732 QUEEN ST W  ,Toronto and East York,10,Active
+362,735 GLADSTONE AVE   ,Toronto and East York,09,In Progress
+363,74 MELBOURNE AVE   ,Toronto and East York,04,In Progress
+364,75 NORTHCOTE AVE   ,Toronto and East York,09,Active
+365,76 PEMBROKE ST   ,Toronto and East York,13,In Progress
+366,760 GERRARD ST E  ,Toronto and East York,14,In Progress
+367,77 HARVARD AVE   ,Toronto and East York,04,Active
+368,780 COXWELL AVE   ,Toronto and East York,14,
+369,784 PAPE AVE   ,Toronto and East York,14,Active
+370,8 TEMPLE AVE   ,Toronto and East York,04,Inactive
+371,80 WOODLAWN AVE E  ,Toronto and East York,11,In Progress
+372,83 SPADINA RD   ,Toronto and East York,11,Inactive
+373,86 D'ARCY ST   ,Toronto and East York,11,Active
+374,87 PEMBROKE ST   ,Toronto and East York,13,Inactive
+375,879 BROADVIEW AVE   ,Toronto and East York,14,Active
+376,9 ALBANY AVE   ,Toronto and East York,11,In Progress
+377,9 HARVARD AVE   ,Toronto and East York,04,Active
+378,9 HOMEWOOD AVE   ,Toronto and East York,13,Active
+379,9 LAXTON AVE   ,Toronto and East York,04,Inactive
+380,90 A GRENADIER RD   ,Toronto and East York,04,Active
+381,91 PEMBROKE ST   ,Toronto and East York,13,In Progress
+382,93 SPADINA RD   ,Toronto and East York,11,Active
+383,93 WEST LODGE AVE   ,Toronto and East York,04,Active
+384,930 DUNDAS ST E  ,Toronto and East York,14,In Progress
+385,935 QUEEN ST W  ,Toronto and East York,10,Active
+386,94 COWAN AVE   ,Toronto and East York,04,Inactive
+387,94 PEMBROKE ST   ,Toronto and East York,13,Active
+388,96 DOWLING AVE   ,Toronto and East York,04,Inactive
+389,96 PEMBROKE ST   ,Toronto and East York,13,Inactive
+390,964 BATHURST ST   ,Toronto and East York,11,In Progress
+391,97 SPADINA RD   ,Toronto and East York,11,Active
+392,99 O'HARA AVE   ,Toronto and East York,04,Active
+393,998 ST CLAIR AVE W  ,Toronto and East York,09,Active

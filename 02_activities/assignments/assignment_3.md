@@ -8,15 +8,32 @@
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
-
+    ''' 
+    I have used Python and Tableau Public
+    '''
     > Who is your intended audience? 
-    
+    '''
+    My intended audience is a leadership of the Police of Toronto, who has right to change budget for different police departments in terms to reduce amount of crimes.
+    '''
     > What information or message are you trying to convey with your visualization? 
-    
+    '''
+    I have a few messages to vocalize:
+    1. The geography of the high rate of crimes in total for the last 11 years with detilizing top 10 areas.
+    2. The trean of different reported type of crimes over 11 years for top 3 areas with high volume of crimes.
+    Each data is showen in raw nambers (counts) and as rate of each type of crime per 100,000 population pear each year.
+    '''
     > What aspects of design did you consider when making your visualization? How did you apply them? With what elements of your plots? 
-    
+    I can considered the following aspects:
+    1. Aesthetic - to make my visualization nice to look at. It has clean and nice style, white grid for the background, different colors which are great for differentiation for eather colorblind and non-colorblind people. I have also rotated x-axis labels for readability and increased font sizes in the figure title for better readability.
+    2. Substantiveness - to make sure my visualization presents the accurate data. The visualization has different scale to present clear visual of data in each cases. 
+    3. Perception - to make sure the visualuzation's message is clear for understanding. Each visualization has titles, subtitles, labels for x and y axis and legend. 
+    '''
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
-    
+    '''
+    1. I created all visualizations using fully code-driven libraries from seaborn and matplotlib in Python. That means each chart can be regenerated the same way from the script without any manual edits.
+    2. I also used Pandas library from Python to process and reshap the dataset. Which means all filtering, grouping, and formatting steps were processed in code avoiding any manual work and can be reproduced by anyone else using this code. 
+    3. I have also commented all essential steps for the future reproducability both by someone else and me
+    '''
     > How did you ensure that your data visualization is accessible?  
     
     > Who are the individuals and communities who might be impacted by your visualization?  
