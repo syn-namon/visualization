@@ -8,23 +8,60 @@
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
-
+    ''' 
+    I have used Python and Tableau Public
+    Here are the links for the visualizations created in Tableau Public:
+    [Top10 Neighbourhoods with High Volume of Crimes in Total](https://public.tableau.com/app/profile/inna.semenykhina/viz/Top10NeighbourhoodswithHighVolumeofCrimesinTotal/Sheet1?publish=yes)
+    [Top10 Neighbourhoods with High Volume of Crimes in Total (rate per 100,000 population)](https://public.tableau.com/app/profile/inna.semenykhina/viz/Top10NeighbourhoodswithHighVolumeofCrimesinTotalrateper100000population/Sheet1?publish=yes)
+    [Crime Volume Trend Over the Time in Top 3 Neighbourhoods](https://public.tableau.com/app/profile/inna.semenykhina/viz/CrimeVolumeTrendOvertheTimeinTop3Neighbourhoods/Sheet2?publish=yes)
+    [Crime Volume Trend Over the Time in Top 3 Neighbourhoods (rate per 100,000 population)](https://public.tableau.com/app/profile/inna.semenykhina/viz/CrimeVolumeTrendOvertheTimeinTop3Neighbourhoodsrateper100000population/Sheet3?publish=yes) 
+    '''
     > Who is your intended audience? 
-    
+    '''
+    My intended audience is a leadership of the Police of Toronto, who has right to change budget for different police departments in terms to reduce amount of crimes.
+    '''
     > What information or message are you trying to convey with your visualization? 
-    
+    '''
+    I have a few messages to vocalize:
+    1. The geography of the high rate of crimes in total for the last 11 years with detailing top 10 areas.
+    2. The trend of different reported type of crimes over 11 years for top 3 areas with high volume of crimes.
+    Each data is shown in raw numbers (counts) and as rate of each type of crime per 100,000 population pear each year.
+    '''
     > What aspects of design did you consider when making your visualization? How did you apply them? With what elements of your plots? 
-    
+    '''
+    I can considered the following aspects:
+    1. Aesthetic - to make my visualization nice to look at. It has clean and nice style, white grid for the background, different colours which are great for differentiation for either colour-blind and non-colourblind people. I have also rotated x-axis labels for readability and increased font sizes in the figure title for better readability.
+    2. Substantiveness - to make sure my visualization presents the accurate data. The visualization has different scale to present clear visual of data in each cases. 
+    3. Perception - to make sure the visualizations’ message is clear for understanding. Each visualization has titles, subtitles, labels for x and y axis and legend. 
+    '''
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
-    
+    '''
+    1. I created all visualizations using fully code-driven libraries from seaborn and matplotlib in Python. That means each chart can be regenerated the same way from the script without any manual edits.
+    2. I also used Pandas library from Python to process and reshape the dataset. Which means all filtering, grouping, and formatting steps were processed in code avoiding any manual work and can be reproduced by anyone else using this code. 
+    3. I have also commented all essential steps for the future reproducibility both by someone else and me
+    '''
     > How did you ensure that your data visualization is accessible?  
-    
+    '''
+    1. I made sure to make the layout clear and intuitive, with straightforward labels, titles and detentions.
+    2. I have used different colours for each graphic after reassuring that these colours are recognizable by colour-blind people as well.
+    3. I have used readable font and its style.
+    4. I also added legends for clarity.
+    '''
     > Who are the individuals and communities who might be impacted by your visualization?  
-    
+    '''
+    The police workers and people, who live in GTA could be impacted by my visualization.
+    '''
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
-    
+    '''
+    I have tested a few types of visualizations to ensure that all data is represented clearly. Thus, I decided to show lollipop style of visualization for representing data for top 10 neighbourhoods with highest crime volume to show the comparison between each neighbourhoods. I have also decided to use lines plot with detailization for each type of crime over 11 years for the top 3 neighbourhoods with the highest volume of the crimes. So it would be easier to compare trend for each type of crime for these neighbourhoods and decide what measures are required for each neighbourhood and how the situation was improved over the years.
+    '''
     > What ‘underwater labour’ contributed to your final data visualization product?
-
+    '''
+    1. Sampling the data by data scientists, who published these dataset in the Internet.
+    2. Data cleaning and reshaping: I have melted some values in order to split the year and type of crime for better filtering and visualization.
+    3. Filtering and aggregation: data was grouped by areas and years and sorted by max value in the visualizations.
+    4. Ensuring accessibility while checking the colouring and styles for the layout.
+    '''
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
  
